@@ -1,0 +1,61 @@
+﻿  picsurf1.cpp
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(36): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(85): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(86): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(98): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(99): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(111): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(112): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(125): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(126): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(226): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(253): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(254): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(285): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(286): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+d:\vs-project\picsurf1\picsurf1\picsurf1.cpp(287): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+  picsurf1.vcxproj -> D:\vs-project\picsurf1\x64\Debug\picsurf1.exe
